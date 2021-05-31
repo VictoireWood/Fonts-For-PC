@@ -81,4 +81,8 @@ P.S. I didn't collect all of the origins. If there are some sites you wanna add 
 <br/>
 [The Monaco font with a bold variant](https://github.com/vjpr/monaco-bold)
 <br/>
+[Borg Sans Mono](https://github.com/marnen/borg-sans-mono)
+<br/>
+['Droid Sans Mono' font modified with a dotted or a slashed zero](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+<br/>
 累了，先写这么多。
