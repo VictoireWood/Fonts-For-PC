@@ -17,6 +17,8 @@ P.S. I didn't collect all of the origins. If there are some sites you wanna add 
 <br/><br/>
 **[Programing Fonts](https://www.programmingfonts.org/) and [the original repository here](https://github.com/braver/programmingfonts).**&ensp;&ensp;&ensp;&ensp;P.S. Highly recommend!!!
 <br/>
+[一部分像素风字体 Pixel Style Fonts](http://www.zfont.cn/#goType)
+<br/>
 [Nerd Fonts repository](https://github.com/ryanoasis/nerd-fonts/releases/tag/v2.1.0)
 <br/>
 [Fira Codei Script repository](https://github.com/kencrocken/FiraCodeiScript)
