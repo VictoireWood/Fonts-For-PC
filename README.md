@@ -19,6 +19,8 @@ P.S. I didn't collect all of the origins. If there are some sites you wanna add 
 <br/>
 [一部分像素风字体 Pixel Style Fonts](http://www.zfont.cn/#goType)
 <br/>
+[国标字体（方正小标宋简体、仿宋GB2312、楷体GB2312） 感谢潍坊医学院的分享！](http://dwbgs.wfmc.edu.cn/a0/a5/c3333a41125/page.psp)
+<br/>
 [Nerd Fonts repository](https://github.com/ryanoasis/nerd-fonts/releases/tag/v2.1.0)
 <br/>
 [Fira Codei Script repository](https://github.com/kencrocken/FiraCodeiScript)
